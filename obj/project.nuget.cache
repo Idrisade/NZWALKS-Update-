@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aO2V7jFJImlsHPYbCh7wT0MGG4Em6K3vjY2sTxPEg3GgdIaNWSN/ku5/0Aiym2pGVh0dhEQ6dUZQHkbcQXorrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TAJ436\\Documents\\RegionsWalkAPI\\RegionsWalksAPI\\RegionsWalksAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TAJ436\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\TAJ436\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\TAJ436\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\TAJ436\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\TAJ436\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\TAJ436\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
